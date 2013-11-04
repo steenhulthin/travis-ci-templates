@@ -1,4 +1,4 @@
-Travis-ci templates
+Travis-ci templates [![Build Status](https://travis-ci.org/steenhulthin/travis-ci-templates.png)](https://travis-ci.org/steenhulthin/travis-ci-templates)
 ===================
 
 ### A collection (right now only node.js) of travis-ci templates to get you started in your own projects
